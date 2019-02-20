@@ -1,5 +1,6 @@
 #Create merge conflict
 print("Merge conflict")
+print("i want to make conflict too.")
 
 #message = "Hello Python world"
 name = "eric Norling"
