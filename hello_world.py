@@ -1,3 +1,6 @@
+#Create merge conflict
+print("Merge conflict")
+
 #message = "Hello Python world"
 name = "eric Norling"
 print(name.title()+"\n"+name.upper()+"\n"+name.lower())
